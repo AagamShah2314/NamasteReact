@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is Namaste React Practice by Aagam Shah",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AagamShah2314/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "aagam shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AagamShah2314/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/AagamShah2314/NamasteReact#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
