@@ -23,5 +23,8 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
 }
